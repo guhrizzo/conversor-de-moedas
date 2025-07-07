@@ -170,6 +170,11 @@ footer{
 }
 
 @media (max-width:700px) { 
+    body{
+        width: 100dvw;
+        height: 100dvh;
+    }
+
     h1{
         font-size: 28px;
     }
